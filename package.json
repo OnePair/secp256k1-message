@@ -1,5 +1,5 @@
 {
-  "name": "secp256k1-message",
+  "name": "secp256-message",
   "version": "1.0.0",
   "description": "",
   "main": "build/index.js",

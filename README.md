@@ -17,7 +17,7 @@ The `secp256k1-message` library allows for verification against transformed secp
 Install with npm:
 
 ```
-npm install secp256k1-message
+npm install secp256-message
 ```
 
 Include the library:
