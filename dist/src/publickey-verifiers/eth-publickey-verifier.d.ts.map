@@ -1,1 +1,0 @@
-{"version":3,"file":"eth-publickey-verifier.d.ts","sourceRoot":"","sources":["../../../src/publickey-verifiers/eth-publickey-verifier.ts"],"names":[],"mappings":"AAEA,qBAAa,oBAAoB;gBAEnB,OAAO,CAAC,EAAE,MAAM;IAGrB,eAAe,CAAC,YAAY,EAAE,MAAM,EAAE,SAAS,EAAE,MAAM,GAAG,OAAO;CAKzE"}

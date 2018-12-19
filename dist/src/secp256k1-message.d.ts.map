@@ -1,1 +1,0 @@
-{"version":3,"file":"secp256k1-message.d.ts","sourceRoot":"","sources":["../../src/secp256k1-message.ts"],"names":[],"mappings":"AAcA,qBAAa,gBAAgB;WAUb,WAAW,CAAC,OAAO,EAAE,MAAM,EAAE,UAAU,EAAE,MAAM,GAAG,MAAM;WAgBxD,eAAe,CAAC,SAAS,EAAE,MAAM,EAAE,OAAO,EAAE,MAAM,EAAE,SAAS,EAAE,MAAM,GAAG,OAAO;CAqB9F"}

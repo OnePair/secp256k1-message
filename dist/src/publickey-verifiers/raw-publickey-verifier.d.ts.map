@@ -1,1 +1,0 @@
-{"version":3,"file":"raw-publickey-verifier.d.ts","sourceRoot":"","sources":["../../../src/publickey-verifiers/raw-publickey-verifier.ts"],"names":[],"mappings":"AAEA,qBAAa,oBAAoB;IAC/B,OAAO,CAAC,UAAU,CAAU;gBAEhB,OAAO,CAAC,EAAE,MAAM;IAIrB,eAAe,CAAC,YAAY,EAAE,MAAM,EAAE,SAAS,EAAE,MAAM,GAAG,OAAO;CAOzE"}
