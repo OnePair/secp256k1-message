@@ -23,7 +23,7 @@ npm install secp256-message
 Include the library:
 
 ```js
-import { Secp256k1Message } from "secp256k1-message";
+import { Secp256k1Message } from "secp256-message";
 ```
 
 ### Examples
