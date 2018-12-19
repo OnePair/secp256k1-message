@@ -1,8 +1,9 @@
 {
   "name": "secp256-message",
-  "version": "1.0.0",
-  "description": "",
-  "main": "build/index.js",
+  "version": "0.0.1",
+  "description": "A secp256k1 message verification and signing library.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "test": "mocha -r ts-node/register ./test/index.ts",
     "build": "tsc"

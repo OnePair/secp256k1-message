@@ -1,7 +1,7 @@
 
 # secp256k1-message
 
-> A nodejs library for secp256k1 message signing and verification.
+> A secp256k1 message verification and signing library.
 
 The `secp256k1-message` library allows for verification against transformed secp256k1 public keys.
 
@@ -52,7 +52,7 @@ let verificationResult = Secp256k1Message.verifySignature(signature, message, {
       options: { network: "mainnet" }
     });
 
-Console.log("Signed message valid:", verificationResult);
+console.log("Signature is valid:", verificationResult);
 ```
 
 Against an Ethereum address:
@@ -67,7 +67,7 @@ let verificationResult = Secp256k1Message.verifySignature(signature, message, {
       type: "eth"
     });
 
-Console.log("Signed message valid:", verificationResult);
+console.log("Signature is valid:", verificationResult);
 ```
 
 Against a public key:
@@ -82,7 +82,7 @@ let verificationResult = Secp256k1Message.verifySignature(signature, message, {
       type: "raw"
     });
 
-Console.log("Signed message valid:", verificationResult);
+console.log("Signature is valid:", verificationResult);
 ```
 
 Against a compressed public key:
@@ -98,7 +98,7 @@ let verificationResult = Secp256k1Message.verifySignature(signature, message, {
       options: { compressed: true }
     });
 
-Console.log("Signed message valid:", verificationResult);
+console.log("Signature is valid:", verificationResult);
 ```
 
 

@@ -1,0 +1,1 @@
+{"version":3,"file":"btc-publickey-verifier.d.ts","sourceRoot":"","sources":["../../../src/publickey-verifiers/btc-publickey-verifier.ts"],"names":[],"mappings":"AAGA,eAAO,MAAM,OAAO,EAAE,MAAkB,CAAC;AACzC,eAAO,MAAM,OAAO,EAAE,MAAkB,CAAC;AAIzC,qBAAa,mBAAmB;IAC9B,OAAO,CAAC,OAAO,CAAS;gBAEZ,OAAO,CAAC,EAAE,MAAM;IAIrB,eAAe,CAAC,YAAY,EAAE,MAAM,EAAE,SAAS,EAAE,MAAM,GAAG,OAAO;CAiBzE"}
